@@ -1,0 +1,10 @@
+Ankara,Istanbul
+Istanbul,Izmır
+Ankara,Eskisehir
+Ankara,Amsterdam
+Istanbul,Amsterdam
+Amsterdam,Paris
+Amsterdam,Konya
+Konya,Eskisehir
+Berlin,Ankara
+Paris,Berlin 
